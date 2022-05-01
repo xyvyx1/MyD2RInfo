@@ -3,6 +3,7 @@ personal Diablo 2 character info
 
 ![image](https://user-images.githubusercontent.com/40529615/166156062-65b72eb2-1c4c-4d32-aa84-936754b784fa.png)
 
+![image](https://user-images.githubusercontent.com/40529615/166156100-71391694-b0a8-4050-8142-dd5d86968134.png)
 
 All Old gear:
 Gloves: <br>
