@@ -11,6 +11,14 @@ Energy: 46 (71)
 
 ![image](https://user-images.githubusercontent.com/40529615/166156100-71391694-b0a8-4050-8142-dd5d86968134.png)
 
+Passive tree:  
+![image](https://user-images.githubusercontent.com/40529615/166156821-3e61287f-fd50-4f0a-951d-4babfab0edff.png)
+
+Bow Tree:  
+![image](https://user-images.githubusercontent.com/40529615/166156920-92b6097e-aeac-479d-a70d-f0ef43e3a1ab.png)
+
+
+
 All Old gear:
 Gloves: <br>
 ![image](https://user-images.githubusercontent.com/40529615/166066361-e91c5ffc-c4c5-4696-a672-bfb50fadb136.png)
