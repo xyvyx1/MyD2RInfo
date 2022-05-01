@@ -1,6 +1,10 @@
 # MyD2RInfo
 personal Diablo 2 character info
 
+![image](https://user-images.githubusercontent.com/40529615/166156062-65b72eb2-1c4c-4d32-aa84-936754b784fa.png)
+
+
+All Old gear:
 Gloves: <br>
 ![image](https://user-images.githubusercontent.com/40529615/166066361-e91c5ffc-c4c5-4696-a672-bfb50fadb136.png)
 
